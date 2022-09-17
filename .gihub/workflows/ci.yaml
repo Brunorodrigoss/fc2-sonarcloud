@@ -1,4 +1,4 @@
-name: ci-sonacloud
+name: ci-sonarcloud
 on:
   pull_request:
     branches:
